@@ -22,3 +22,5 @@ To develop a comprehensive credit card weekly dashboard which provides real-time
 •	Overall Activation rate is 57.5%
 •	Overall Delinquent rate is 6.06%
 -> Next Steps/Recommendation: After analyzing the data, it is observed that businessmen and self-employed individuals are more likely to be delinquent. It's important to investigate the underlying reasons for this trend.
+
+
